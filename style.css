@@ -6,7 +6,7 @@ body {
     margin: 0;
     font-family: 'Open Sans', sans-serif;
     background: white;
-    background-image: url('https://source.unsplash.com/1600x900/?landscape');
+    background-image: img src 'mori.svg';
     font-size: 120%;
   }
   
@@ -79,8 +79,12 @@ body {
   .weather.loading:after {
     visibility: visible;
     content: "Loading...";
-    color: white;
+    color: blue;
     position: absolute;
     top: 0;
     left: 20px;
+  }
+  body{
+    background: blue;
+
   }

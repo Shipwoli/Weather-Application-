@@ -26,7 +26,7 @@ get a local copy of this repo to your local machine => git@github.com:Shipwoli/W
 open in terminal then open to vs code
 install json server
 run json-server --watch db.json
-open html with live server or you can follow the link avobe 
+open html with live server or you can follow the link av.gobe 
 
 ### Usage
 - To get a local copy up and running follow these simple example steps.
